@@ -1,22 +1,28 @@
 # Kickstarter a crowdfunding platform
 
+### Ram Gollakota
+
 ## Overview and Origin
 
 * Kickstarter (https://www.kickstarter.com/) is a crowdfunding platform that allows individuals or groups to collect funds for creative projects by soliciting modest sums of money from a large number of people, generally over the internet. It is a for-profit firm formed in 2009 that serves as a global crowdfunding platform for creative initiatives in fields such as art, music, cinema, technology, and others. Kickstarter has enabled creators to present their ideas to the public and obtain funding from supporters who support their work, resulting in the completion of thousands of projects.
 
+
+
+![Kickstarter](Kickstarter.png) 
+
 * When was the company incorporated?
-2009
+  2009
 
 * Who are the founders of the company?
-	
-	Kickstarter was founded in 2009 by Perry Chen, Yancey Strickler, and Charles Adler. The company is headquartered in Brooklyn, New York.
-	
-	Perry Chen is a New Orleans-born artist, musician, and entrepreneur who co-founded Kickstarter in 2009. He serves as the company's CEO.
-	
-	Yancey Strickler is a writer and entrepreneur who co-founded Kickstarter in 2009. He serves as the company's Chief Strategy Officer.
-	
-	Charles Adler is a designer and entrepreneur who co-founded Kickstarter in 2009. He served as the company's Chief Design Officer until leaving the company in 2013.
-	
+
+  Kickstarter was founded in 2009 by Perry Chen, Yancey Strickler, and Charles Adler. The company is headquartered in Brooklyn, New York.
+
+  Perry Chen is a New Orleans-born artist, musician, and entrepreneur who co-founded Kickstarter in 2009. He serves as the company's CEO.
+
+  Yancey Strickler is a writer and entrepreneur who co-founded Kickstarter in 2009. He serves as the company's Chief Strategy Officer.
+
+  Charles Adler is a designer and entrepreneur who co-founded Kickstarter in 2009. He served as the company's Chief Design Officer until leaving the company in 2013.
+
 * How did the idea for the company (or project) come about?
 
 The idea for Kickstarter originated from co-founder Perry Chen's experience as a musician and event organizer. Chen planned a concert in New Orleans in 2002 but struggled to get funding. He eventually took out a loan and used credit cards to pay for the concert, but the experience left him frustrated and motivated to discover a better method to support creative initiatives.
@@ -32,7 +38,7 @@ Kickstarter is a for-profit company that earns money by charging a percentage ch
 
 Kickstarter's funding amount is not publicly available because the company is privately held and has not revealed this information. It is important to note, however, that Kickstarter is not supported by typical venture capital. Instead, the corporation makes money by charging fees for successful advertising. Kickstarter can remain autonomous and focused on its purpose of promoting creative projects and communities thanks to this arrangement. However, it is worth mentioning that since its start in 2009, Kickstarter had received $6.6 billion in pledges from 21 million contributors as of July 2021, funding 222,000 projects such as films, music, stage plays, comics, journalism, video games, board games, technology, publishing, and food-related ventures. Everette Taylor the current CEO of Kickstarter from September 2022 indicated in an interview with Bloomberg in October 2022, that it had been profitable since year 2.
 
-
+![Finances](finances.png)
 
 ## Business Activities:
 
@@ -60,6 +66,8 @@ Kickstarter has a large network of backers that support creative projects on the
 1. Trust: Kickstarter has established itself as a trustworthy and dependable crowdfunding platform for creative projects. The company has tight criteria for what types of projects are permitted on the platform, as well as systems in place to guarantee that projects are properly vetted and funds are used wisely.
 2. Simplicity: The Kickstarter platform is intended to be simple to use for both creators seeking financing and backers supporting projects. The website is simple and easy to use, making the crowdfunding process accessible to a wide spectrum of consumers.
 3. Visibility: Because Kickstarter has a huge and active user base, projects on the platform receive a lot of attention. This, in turn, raises the likelihood of a project being funded successfully.
+
+![Why Kickstarter](Trust-Sim-Vis.png)
 
 
 These elements have contributed to Kickstarter's position as a leading platform for crowdfunding creative projects, making it difficult for competitors to replicate its success.
@@ -151,19 +159,19 @@ Kickstarter is one of the top crowdfunding sites in terms of overall market shar
 
 Kickstarter may want to consider based on current market trends:
 
-1. Alternative financing options: As the crowdfunding industry continues to evolve, there may be opportunities for Kickstarter to explore alternative financing options, such as equity crowdfunding or revenue-based financing.
+1. Metaverse: Kickstarter can take entertainment to the  Metaverse by funding new engagements in Augmented Reality/Virtual Reality space. This is currently a unexplored horizon.
 
-2. Social impact projects: There has been a trend in recent years towards using crowdfunding platforms to support projects with a social or environmental focus. Kickstarter may want to consider ways to better support and promote these types of projects on its platform.
+2. Alternative financing options: As the crowdfunding industry continues to evolve, there may be opportunities for Kickstarter to explore alternative financing options, such as equity crowdfunding or revenue-based financing.
 
-3. Immigrant Segment: Studies have shown that immigrant artists find it harder to secure financing, Kickstarter can have dedicated learning circles to market and attract this segment.
+3. Social impact projects: There has been a trend in recent years towards using crowdfunding platforms to support projects with a social or environmental focus. Kickstarter may want to consider ways to better support and promote these types of projects on its platform.
 
-4. Metaverse: Kickstarter can take entertainment to the  Metaverse by funding new engagements in Augmented Reality/Virtual Reality space. This is currently a unexplored horizon.
+4. Immigrant Segment: Studies have shown that immigrant artists find it harder to secure financing, Kickstarter can have dedicated learning circles to market and attract this segment.
 
 5. Diversification: Kickstarter may want to consider diversifying its product offering by expanding into new categories or offering additional services to creators and backers. 
 
 6. Community based: Kickstarter can form alliances with community organizations in both urban and rural settings and help foster new business ideas and take them to market.
 
-   
+   ![Metaverse Musician](meta-musician.png)
 
 * Why do you think that offering this product or service would benefit the company?
 
