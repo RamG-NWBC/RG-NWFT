@@ -159,7 +159,7 @@ Kickstarter is one of the top crowdfunding sites in terms of overall market shar
 
 Kickstarter may want to consider based on current market trends:
 
-1. Metaverse: Kickstarter can take entertainment to the  Metaverse by funding new engagements in Augmented Reality/Virtual Reality space. This is currently a unexplored horizon.
+1. Metaverse: Kickstarter can take entertainment to the  Metaverse by funding new engagements in Augmented Reality/Virtual Reality space. This is currently a untapped horizon with great potential. In fact Kickstarter project Occulus was acquired by Facebook/Meta and major part of their Meta offering.
 
 2. Alternative financing options: As the crowdfunding industry continues to evolve, there may be opportunities for Kickstarter to explore alternative financing options, such as equity crowdfunding or revenue-based financing.
 
